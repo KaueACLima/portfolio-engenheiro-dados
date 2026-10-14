@@ -40,7 +40,7 @@ Construir um pipeline de dados completo seguindo a **Arquitetura Medallion** (Br
 
 ## 📚 Contexto de estudo
 
-Este repositório acompanha minha jornada como Analista de Dados Júnior migrando para Engenharia de Dados, estudando em paralelo:
+Este repositório acompanha minha transição de desenvolvedor front-end para a área de Dados, estudando em paralelo:
 
 - Google Skills — Associate Data Practitioner Certification
 - Google Skills — Professional Data Engineer Certification
